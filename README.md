@@ -28,4 +28,4 @@ Thank you to TurboWarp for packaging the games and providing proper embeds and p
 
 Thank you to MIT Media Lab for creating Scratch, the platform being used for these packages.
 
-Thank you to all the original creators of such packages.
+Thank you to all the original creators of such packages!
