@@ -3,8 +3,9 @@
 </p>
 
 <p align="center">
-  <a href="rockfi5h.github.io/mandarin/index.html">Mandarin Link
+  <a href="https://rockfi5h.github.io/mandarin">Mandarin Link
   </p>
+  
 # Mandarin
 Mandarin is a package manager for the web, it delivers packages from scratch.mit.edu inside of a compact form with high performance. For certain packages, you can choose to either get a raw package (html) or get an embed that hotlinks back to the repository (Turbowarp).
 
