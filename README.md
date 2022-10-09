@@ -1,4 +1,4 @@
-![alt text](https://raw.githubusercontent.com/rockfi5h/mandarin/main/assets/whitelogo.png?raw=true)
+![alt text](https://?raw=true)
 
 # Mandarin
 Mandarin is a package manager for the web, it delivers packages from scratch.mit.edu inside of a compact form with high performance. For certain packages, you can choose to either get a raw package (html) or get an embed that hotlinks back to the repository (Turbowarp).
