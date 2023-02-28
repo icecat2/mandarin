@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://rockfi5h.github.io/mandarin">Mandarin Link
+  <a href="https://asoble.github.io/mandarin">Mandarin Link
   </p>
   
 # Mandarin
